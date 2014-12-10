@@ -1,0 +1,9 @@
+{
+  "name": "instagram-downloader",
+  "title": "Instagram Downloader",
+  "id": "jid1-U3lFNoYEPkJw0Q",
+  "description": "This add-on adds a new context menu option, 'Download from Instagram', when you right-click on pictures at instagram.com. Selecting the option opens the full-sized image in a new tab for easy saving to disk.",
+  "author": "Jason Rogers <jason@ascendiv.com>",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
